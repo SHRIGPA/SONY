@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<show name="SONY">
+<item name="CAMERA 1">*cam back audio level 0 mix 12</item>
+<item name="CAMERA 2">*cam back level 00
+
+*cam back audio level 0 mix 12
+
+*mp1 scifi-spin-v4 loop audio level 100 mix 12
+
+*cam back audio level 0 mix 12</item>
+<item name="MP">*mp1 scifi-spin-v4 loop audio level 93 mix 12</item>
+<item name="CG">*cg pip1 \
+NEWS 
+AURANGABAD BREAKING NEWS</item>
+</show>
